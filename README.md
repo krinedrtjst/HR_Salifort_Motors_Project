@@ -1,1 +1,3 @@
 # HR_Salifort_Motors_Project
+Data-Driven Analysis for Human Resources
+This is a Capstone Project where we analyze the Salifort Motors Human Resources Department dataset and build predictive models that provide insights for the larger consulting firm. As a data professional, I will present two artifacts to the stakeholder team: a summary of this project and the complete code of the notebook for the technical team. We will approach the data with a regression model and a machine learning model to predict whether an employee will leave the company and identify the factors that impact this decision.-
